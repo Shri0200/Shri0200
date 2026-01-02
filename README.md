@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrinidhi Mokashi</h1>
-<h3 align="center">Software Engineering Student | System Design Learner</h3>
+<h3 align="center">Pre-final Year Undergraduate, VIT Pune |  </h3>
 
 ---
 
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 <p>
-I am a <b>Computer Engineering undergraduate</b> at VIT Pune with a strong academic background and a keen interest in building reliable, scalable, and real-world software systems.
+I am a <b>Pre-final Year Information Technology undergraduate</b> at VIT Pune with a strong academic background and a keen interest in building reliable, scalable, and real-world software systems.
 </p>
 
 <ul>
