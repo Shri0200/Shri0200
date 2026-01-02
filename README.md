@@ -24,8 +24,8 @@
 - Hackathon finalist & patent holder
 
 ### 🏆 Highlights
-- 🥇 SIH Winner  
-- 🏅 Innohack Finalist (Top 20)  
+- 🥇 Internal SIH Winner  
+- 🏅 Innohack Finalist (Top 5)  
 - 📜 Patent: *Sign Sense*
 
 </td>
