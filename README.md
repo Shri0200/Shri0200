@@ -1,15 +1,14 @@
-<!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Shrinidhi Mokashi</h1>
 <h3 align="center">Software Engineering Student | System Design Learner</h3>
 
 ---
 
-<!-- ABOUT + CONTACT SECTION -->
+<!-- ABOUT + CONTACT -->
 <table>
 <tr>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 - 🎓 **B.Tech Computer Engineering** @ VIT Pune  
 - 📊 **CGPA:** 8.7 (Pursuing)  
 - 🎓 **Diploma:** Computer Engineering – 91.20%  
@@ -19,20 +18,28 @@
 
 </td>
 
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-### 📫 Contact
-<p align="left">
+## 📫 Contact
+<p>
   <a href="mailto:shrinidhimokashi25@gmail.com">
     <img src="https://img.shields.io/badge/Email-shrinidhimokashi25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <br/><br/>
+</p>
+
+<p>
   <a href="https://linkedin.com/in/shrinidhi-mokashi">
     <img src="https://img.shields.io/badge/LinkedIn-Shrinidhi%20Mokashi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-### 🏆 Highlights
+<p>
+  <a href="https://leetcode.com/u/shrinidhi2005/">
+    <img src="https://img.shields.io/badge/LeetCode-shrinidhi2005-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+## 🏆 Highlights
 - 🥇 Internal **SIH Winner**  
 - 🏅 **Innohack Finalist (Top 5)**  
 - 📜 **Patent Holder:** *Sign Sense*
@@ -43,30 +50,28 @@
 
 ---
 
-<!-- TECHNOLOGIES SECTION -->
-<h2 align="center">🛠️ Technologies & Tools</h2>
+## 🛠️ Technology Stack
 
-<p align="center">
+### 💻 Programming Languages
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
 </p>
 
-<p align="center">
+### ⚙️ Frameworks & Libraries
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git,github" />
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-<p align="center">
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github" />
+</p>
+
+<p>
   🐳 <b>Currently Exploring:</b> Docker & Containerized Deployments
-</p>
-
----
-
-
----
-
-<p align="center">
-⭐ <i>Building reliable systems, one line of code at a time.</i>
 </p>
