@@ -41,11 +41,14 @@ I am a <b>Pre-final Year Information Technology undergraduate</b> at VIT Pune wi
 
 <hr/>
 
-## 🏆 Highlights
+## 🏆 Achievements & Recognition
 <ul>
-  <li>🥇 <b>Internal Smart India Hackathon Winner</b></li>
-  <li>🏅 <b>Innohack Finalist</b> (Top 5 teams)</li>
-  <li>📜 <b>Patent Holder:</b> <i>Sign Sense</i></li>
+  🎖️ <b>Reviewer</b> • ICMLA Conference<br><br>
+  🏢 <b>CitiBridge Trainee 2026</b><br><br>
+  🥇 <b>SIH Internal Winner</b> • 900+ Teams<br><br>
+  🏅 <b>Innohack 2.0 Finalist</b> • Top 5 / 250+ Teams<br><br>
+  🚀 <b>Magnate 2.0 Finalist</b> • PICT Pune<br><br>
+  📜 <b>Patent Holder</b> • Sign Sense
 </ul>
 
 </td>
@@ -95,26 +98,3 @@ I am a <b>Pre-final Year Information Technology undergraduate</b> at VIT Pune wi
 
 ---
 
-## 🏆 Achievements & Recognition
-
-<p align="center">
-
-🥇 <b>SIH Internal Winner</b> • 900+ Teams<br><br>
-
-🏅 <b>Innohack 2.0 Finalist</b> • Top 5 / 250+ Teams<br><br>
-
-🚀 <b>Magnate 2.0 Finalist</b> • PICT Pune<br><br>
-
-🎖️ <b>Reviewer</b> • ICMLA Conference<br><br>
-
-🏢 <b>CitiBridge Trainee 2026</b><br><br>
-
-📜 <b>Patent Holder</b> • Sign Sense
-
-</p>
-  <li>🏅 <b>Innohack 2.0 Finalist</b> – Ranked in the <b>Top 5 teams</b> among <b>250+ teams</b></li>
-
-  <li>🚀 <b>Magnate 2.0 Hackathon Finalist</b> – Finalist at <b>PICT Pune</b></li>
-
-  <li>📜 <b>Patent Holder</b> – <i>Sign Sense</i></li>
-</ul>
