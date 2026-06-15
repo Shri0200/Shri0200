@@ -1,5 +1,5 @@
 <h1 align="center">👋 Glad You're Here, I'm Shrinidhi Mokashi</h1>
-<h3 align="center">Pre-final Year Undergraduate, VIT Pune   </h3>
+<h3 align="center">Pre-final Year Undergrad, VIT Pune   </h3>
 
 ---
 
