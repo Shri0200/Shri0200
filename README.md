@@ -93,15 +93,25 @@ I am a <b>Pre-final Year Information Technology undergraduate</b> at VIT Pune wi
   🐳 <b>Currently Exploring:</b> Docker & Containerized Deployments
 </p>---
 
+---
+
 ## 🏆 Achievements & Recognition
 
-<ul>
-  <li>🎖️ <b>Reviewer</b> – International Conference on Machine Learning and Applications (ICMLA)</li>
-  
-  <li>🏢 <b>CitiBridge Trainee 2026</b> – Selected for Citi's flagship technology training program</li>
+<p align="center">
 
-  <li>🥇 <b>Internal Smart India Hackathon Winner</b> – Secured 1st place among <b>900+ teams</b></li>
+🥇 <b>SIH Internal Winner</b> • 900+ Teams<br><br>
 
+🏅 <b>Innohack 2.0 Finalist</b> • Top 5 / 250+ Teams<br><br>
+
+🚀 <b>Magnate 2.0 Finalist</b> • PICT Pune<br><br>
+
+🎖️ <b>Reviewer</b> • ICMLA Conference<br><br>
+
+🏢 <b>CitiBridge Trainee 2026</b><br><br>
+
+📜 <b>Patent Holder</b> • Sign Sense
+
+</p>
   <li>🏅 <b>Innohack 2.0 Finalist</b> – Ranked in the <b>Top 5 teams</b> among <b>250+ teams</b></li>
 
   <li>🚀 <b>Magnate 2.0 Hackathon Finalist</b> – Finalist at <b>PICT Pune</b></li>
