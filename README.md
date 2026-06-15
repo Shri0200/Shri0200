@@ -15,11 +15,11 @@ I am a <b>Pre-final Year Information Technology undergraduate</b> at VIT Pune wi
 
 <ul>
   <li>🎓 <b>B.Tech Computer Engineering</b> @ VIT Pune</li>
-  <li>📊 <b>CGPA:</b> 8.67 (Pursuing)</li>
+  <li>📊 <b>CGPA:</b> 8.9 (Pursuing)</li>
   <li>🎓 <b>Diploma:</b> Computer Engineering – 91.20%</li>
-  <li>🧠 Strong foundation in <b>DSA, DBMS, OS, OOP</b></li>
-  <li>🐳 Exploring <b>Docker & Containerization</b></li>
-  <li>🚀 Interested in <b>scalable & secure systems</b></li>
+  <li>🧠 Strong foundation in <b>DSA, DBMS, OS, OOP, Software Engineering</b></li>
+  <li>🐳 Exploring <b>Docker </b></li>
+  <!-- <li>🚀 Interested in <b>scalable & secure systems</b></li> -->
 </ul>
 
 </td>
